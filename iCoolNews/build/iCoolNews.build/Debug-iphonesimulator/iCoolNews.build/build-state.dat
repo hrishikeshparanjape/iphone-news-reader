@@ -1,0 +1,776 @@
+TiCoolNews
+v7
+r0
+t310352853.512340
+cCheck dependencies
+cProcessInfoPlistFile /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Info.plist iCoolNews-Info.plist
+cCompileXIB /Users/manavdeshmukh/Desktop/iCoolNews/MainWindow.xib
+cCompileXIB /Users/manavdeshmukh/Desktop/iCoolNews/NewsFeeds.xib
+cCompileXIB /Users/manavdeshmukh/Desktop/iCoolNews/Browser.xib
+cProcessPCH /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch.gch iCoolNews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o /Users/manavdeshmukh/Desktop/iCoolNews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews normal i386
+cGenerateDSYMFile /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+cTouch /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004CB5FB2900000000000000EE
+t1286994729
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/usr/include/sqlite3.h
+c000000004B2B49B3000000000003D86F
+t1261128115
+s252015
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/BlueView.xib
+c000000004CCA1B1E00000000000014D9
+t1288313630
+s5337
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Browser.xib
+c000000004CCF32110000000000004675
+t1288647185
+s18037
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BlueViewController.h
+c000000004CCA1A6F00000000000000EA
+t1288313455
+s234
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BlueViewController.m
+c000000004CCA1A6F00000000000005EC
+t1288313455
+s1516
+i"BlueViewController.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BrowserViewController.h
+c000000004CCF2410000000000000017B
+t1288643600
+s379
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BrowserViewController.m
+c000000004CCF46BF0000000000000B6D
+t1288652479
+s2925
+i"BrowserViewController.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/NewsFeedsViewController.h
+c000000004CCF258800000000000007B6
+t1288643976
+s1974
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/NewsFeedsViewController.m
+c000000004CCF305A0000000000001A92
+t1288646746
+s6802
+i"NewsFeedsViewController.h"
+i"SwitchViewController.h"
+i"BrowserViewController.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/SwitchViewController.h
+c000000004CCF437D00000000000002DC
+t1288651645
+s732
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/SwitchViewController.m
+c000000004CCF48B5000000000000132A
+t1288652981
+s4906
+i"SwitchViewController.h"
+i"NewsFeedsViewController.h"
+i"BrowserViewController.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/XMLParser.h
+c000000004CCBB7980000000000000198
+t1288419224
+s408
+i<Foundation/Foundation.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/XMLParser.m
+c000000004CCBB7980000000000000155
+t1288419224
+s341
+i"XMLParser.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/YellowViewController.h
+c000000004CCA1A1100000000000000EE
+t1288313361
+s238
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/YellowViewController.m
+c000000004CCA1A1100000000000005F2
+t1288313361
+s1522
+i"YellowViewController.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/iCoolNewsAppDelegate.h
+c000000004CCBB96C00000000000001FA
+t1288419692
+s506
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/iCoolNewsAppDelegate.m
+c000000004CCF3CDE0000000000000361
+t1288649950
+s865
+i<sqlite3.h>
+i"iCoolNewsAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/untitled.h
+c000000004CCA1A2D00000000000000D6
+t1288313389
+s214
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/untitled.m
+c000000004CCA1A2D00000000000005CE
+t1288313389
+s1486
+i"untitled.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/MainWindow.xib
+c000000004CCF30DC0000000000005CA7
+t1288646876
+s23719
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/NewsFeeds.xib
+c000000004CCF32CF0000000000006640
+t1288647375
+s26176
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchView.xib
+c000000004CCDAAAA0000000000003ED3
+t1288546986
+s16083
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchViewController.h
+c000000004CCA19DF00000000000000EE
+t1288313311
+s238
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchViewController.m
+c000000004CCA19DF00000000000005F2
+t1288313311
+s1522
+i"SwitchViewController.h"
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/YellowView.xib
+c000000004CCA1B3100000000000014D9
+t1288313649
+s5337
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app
+t1288652982
+s374
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM
+t1288652982
+s102
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/BlueView.nib
+t1288314002
+s960
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Browser.nib
+t1288647230
+s1526
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Info.plist
+t1288340673
+s572
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/MainWindow.nib
+t1288646879
+s2089
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/NewsFeeds.nib
+t1288647378
+s3914
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/PkgInfo
+t1288340673
+s8
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/SwitchView.nib
+t1288546989
+s1265
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/YellowView.nib
+t1288314002
+s960
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+t1288652982
+s37212
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BlueViewController.o
+t1288314003
+s29932
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o
+t1288652479
+s36148
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o
+t1288651645
+s51872
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o
+t1288652982
+s41356
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/XMLParser.o
+t1288419224
+s10652
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/YellowViewController.o
+t1288314003
+s29960
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNews.LinkFileList
+c000000004CCBB97600000000000002F1
+t1288419702
+s753
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o
+t1288651645
+s38348
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o
+t1288314003
+s5980
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/iCoolNews_Prefix.pch
+c000000004CCA17A700000000000000BB
+t1288312743
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/main.m
+c000000004CCA17A7000000000000016B
+t1288312743
+s363
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Browser.xib
+c000000004CCF32110000000000004675
+t1288647185
+s18037
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.h
+c000000004CCF2410000000000000017B
+t1288643600
+s379
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.m
+c000000004CCF6455000000000000086A
+t1288660053
+s2154
+i"BrowserViewController.h"
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.h
+c000000004CCF62BF00000000000007B4
+t1288659647
+s1972
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.m
+c000000004CCF635A00000000000013F2
+t1288659802
+s5106
+i"NewsFeedsViewController.h"
+i"SwitchViewController.h"
+i"BrowserViewController.h"
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.h
+c000000004CCF607700000000000002CE
+t1288659063
+s718
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.m
+c000000004CCF61A10000000000000F96
+t1288659361
+s3990
+i"SwitchViewController.h"
+i"NewsFeedsViewController.h"
+i"BrowserViewController.h"
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.h
+c000000004CCF600C0000000000000227
+t1288658956
+s551
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.m
+c000000004CCF604A000000000000026D
+t1288659018
+s621
+i<sqlite3.h>
+i"iCoolNewsAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/MainWindow.xib
+c000000004CCF30DC0000000000005CA7
+t1288646876
+s23719
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/NewsFeeds.xib
+c000000004CCF32CF0000000000006640
+t1288647375
+s26176
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app
+t1288660053
+s374
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM
+t1288660053
+s102
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Browser.nib
+t1288647230
+s1526
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Info.plist
+t1288340673
+s572
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/MainWindow.nib
+t1288646879
+s2089
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/NewsFeeds.nib
+t1288647378
+s3914
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/PkgInfo
+t1288340673
+s8
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+t1288660053
+s37100
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o
+t1288660053
+s36124
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o
+t1288659803
+s51848
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o
+t1288659649
+s41332
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNews.LinkFileList
+c000000004CCF48D400000000000002BA
+t1288653012
+s698
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o
+t1288659649
+s38324
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o
+t1288653013
+s5956
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/iCoolNews_Prefix.pch
+c000000004CCA17A700000000000000BB
+t1288312743
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/manavdeshmukh/Desktop/iCoolNews/main.m
+c000000004CCA17A7000000000000016B
+t1288312743
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch.gch
+t1288314003
+s13034960
+
+N/var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch.gch
+t1288653013
+s13034960
+
+NiCoolNews-Info.plist
+c000000004CCA84BE000000000000038D
+t1288340670
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310352853#310352853#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BlueViewController.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310006803.691970
+e310006803.746736
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BlueViewController.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BlueViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BlueViewController.m310006803#310006803#0(0"0(0#0#78"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BlueViewController.m4300885448#2056"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BlueViewController.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BlueViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310345279.598614
+e310345279.780346
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BrowserViewController.m310345279#310345279#0(0"0(0#0#81"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BrowserViewController.m4300885448#2062"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/BrowserViewController.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310352853.089310
+e310352853.366602
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o
+x/Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.m310352853#310352853#0(0"0(0#0#70"/Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.m4300885448#1941"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/iCoolNews/Classes/BrowserViewController.m -o /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/BrowserViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/NewsFeedsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310344445.861951
+e310344445.969007
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/NewsFeedsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/NewsFeedsViewController.m310344445#310344445#0(0"0(0#0#83"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/NewsFeedsViewController.m4300885448#2066"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/NewsFeedsViewController.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310352602.805064
+e310352603.126153
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o
+x/Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.m310352602#310352603#0(0"0(0#0#72"/Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.m4300885448#1945"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/iCoolNews/Classes/NewsFeedsViewController.m -o /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/NewsFeedsViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310345781.855244
+e310345782.004868
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/SwitchViewController.m310345781#310345782#0(0"0(0#0#80"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/SwitchViewController.m4300885448#2060"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/SwitchViewController.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310352448.426942
+e310352449.572696
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o
+x/Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.m310352448#310352449#0(0"0(0#0#69"/Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.m4300885448#1939"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/iCoolNews/Classes/SwitchViewController.m -o /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/SwitchViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/XMLParser.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/XMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310112024.394695
+e310112024.452174
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/XMLParser.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/XMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/XMLParser.m310112024#310112024#0(0"0(0#0#69"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/XMLParser.m4300885448#2038"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/XMLParser.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/XMLParser.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/YellowViewController.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/YellowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310006803.605437
+e310006803.691822
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/YellowViewController.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/YellowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/YellowViewController.m310006803#310006803#0(0"0(0#0#80"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/YellowViewController.m4300885448#2060"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/YellowViewController.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/YellowViewController.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/iCoolNewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310344445.727098
+e310344445.861858
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/iCoolNewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/iCoolNewsAppDelegate.m310344445#310344445#0(0"0(0#0#80"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/iCoolNewsAppDelegate.m4300885448#2060"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/iCoolNewsAppDelegate.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o /Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310352448.416047
+e310352449.499677
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o
+x/Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.m310352448#310352449#0(0"0(0#0#69"/Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.m3347150225057542144#1939"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/iCoolNews/Classes/iCoolNewsAppDelegate.m -o /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNewsAppDelegate.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310006803.520633
+e310006803.605326
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/main.m310006803#310006803#0(0"0(0#0#56"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/main.m4300885448#2020"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/main.m -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o /Users/manavdeshmukh/Desktop/iCoolNews/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310345813.190759
+e310345813.250009
+r1
+xCompileC
+xbuild/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o
+x/Users/manavdeshmukh/Desktop/iCoolNews/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/manavdeshmukh/Desktop/iCoolNews/main.m310345813#310345813#0(0"0(0#0#45"/Users/manavdeshmukh/Desktop/iCoolNews/main.m4300885448#1899"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -include /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch -c /Users/manavdeshmukh/Desktop/iCoolNews/main.m -o /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/main.o0#
+
+CCompileC build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/untitled.o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Classes/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/BlueView.xib
+s310006801.977228
+e310006802.304093
+r1
+xCompileXIB
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/BlueView.xib
+lSLF07#2@23"CompileXIB BlueView.xib310006801#310006802#0(0"0(0#0#62"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/BlueView.xib4300885448#513"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/BlueView.nib /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/BlueView.xib0#
+
+CCompileXIB /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Browser.xib
+s310340029.972461
+e310340030.755640
+r1
+xCompileXIB
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Browser.xib
+lSLF07#2@22"CompileXIB Browser.xib310340029#310340030#0(0"0(0#0#61"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Browser.xib4300885448#511"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Browser.nib /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/Browser.xib0#
+
+CCompileXIB /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/MainWindow.xib
+s310339678.385922
+e310339679.105078
+r1
+xCompileXIB
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310339678#310339679#0(0"0(0#0#64"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/MainWindow.xib4300885448#517"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/MainWindow.nib /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/MainWindow.xib0#
+
+CCompileXIB /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/NewsFeeds.xib
+s310340177.452150
+e310340178.519747
+r1
+xCompileXIB
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/NewsFeeds.xib
+lSLF07#2@24"CompileXIB NewsFeeds.xib310340177#310340178#0(0"0(0#0#63"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/NewsFeeds.xib4300885448#515"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/NewsFeeds.nib /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/NewsFeeds.xib0#
+
+CCompileXIB /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchView.xib
+s310239789.691070
+e310239790.002832
+r1
+xCompileXIB
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchView.xib
+lSLF07#2@25"CompileXIB SwitchView.xib310239789#310239790#0(0"0(0#0#64"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchView.xib29273891505766500#517"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/SwitchView.nib /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/SwitchView.xib0#
+
+CCompileXIB /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/YellowView.xib
+s310006802.264889
+e310006802.522052
+r1
+xCompileXIB
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/YellowView.xib
+lSLF07#2@25"CompileXIB YellowView.xib310006802#310006802#0(0"0(0#0#64"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/YellowView.xib4300885448#517"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/YellowView.nib /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/YellowView.xib0#
+
+CCompileXIB /Users/manavdeshmukh/Desktop/iCoolNews/Browser.xib
+r0
+
+CCompileXIB /Users/manavdeshmukh/Desktop/iCoolNews/MainWindow.xib
+r0
+
+CCompileXIB /Users/manavdeshmukh/Desktop/iCoolNews/NewsFeeds.xib
+r0
+
+CGenerateDSYMFile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+s310345782.031543
+e310345782.050232
+r1
+xGenerateDSYMFile
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/iCoolNews.app.dSYM build/Debug-iphonesimulator/iCoolNews.app/iCoolNews310345782#310345782#0(0"0(0#0#101"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews4300885448#422"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM0#
+
+CGenerateDSYMFile /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+s310352853.452787
+e310352853.505164
+r1
+xGenerateDSYMFile
+x/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM
+x/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/iCoolNews.app.dSYM build/Debug-iphonesimulator/iCoolNews.app/iCoolNews310352853#310352853#0(0"0(0#0#90"/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews4300885448#389"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews -o /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app.dSYM0#
+
+CLd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews normal i386
+s310345782.004965
+e310345782.031444
+r1
+xLd
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+xnormal
+xi386
+lSLF07#2@106"Link /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews310345782#310345782#0(0"0(0#0#0"4300885448#929"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -filelist /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNews.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews0#
+
+CLd /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews normal i386
+s310352853.366808
+e310352853.452531
+r1
+xLd
+x/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews
+xnormal
+xi386
+lSLF07#2@95"Link /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews310352853#310352853#0(0"0(0#0#0"4300885448#874"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -F/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -filelist /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/Objects-normal/i386/iCoolNews.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/iCoolNews0#
+
+CProcessInfoPlistFile /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Info.plist iCoolNews-Info.plist
+s310033473.022145
+e310033473.027926
+r1
+xProcessInfoPlistFile
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Info.plist
+xiCoolNews-Info.plist
+lSLF07#2@28"Process iCoolNews-Info.plist310033473#310033473#0(0"0(0#0#70"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/iCoolNews-Info.plist4300885448#518"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCoolNews-Info.plist -genpkginfo /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app/Info.plist iCoolNews-Info.plist
+r0
+
+CProcessPCH /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch.gch iCoolNews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310006802.522273
+e310006803.520248
+r1
+xProcessPCH
+x/var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch.gch
+xiCoolNews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iCoolNews_Prefix.pch310006802#310006803#0(0"0(0#0#70"/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/iCoolNews_Prefix.pch4300885448#1899"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/iCoolNews_Prefix.pch -o /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-azfmxmrmvtchhwfecqwqkzxcrwqm/iCoolNews_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch.gch iCoolNews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310345812.323849
+e310345813.190504
+r1
+xProcessPCH
+x/var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch.gch
+xiCoolNews_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iCoolNews_Prefix.pch310345812#310345813#0(0"0(0#0#59"/Users/manavdeshmukh/Desktop/iCoolNews/iCoolNews_Prefix.pch4300885448#1789"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-generated-files.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-own-target-headers.hmap -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-all-target-headers.hmap -iquote /Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/iCoolNews-project-headers.hmap -F/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator -I/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/include -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources/i386 -I/Users/manavdeshmukh/Desktop/iCoolNews/build/iCoolNews.build/Debug-iphonesimulator/iCoolNews.build/DerivedSources -c /Users/manavdeshmukh/Desktop/iCoolNews/iCoolNews_Prefix.pch -o /var/folders/za/zarsRssjHsOpK66IJUUZm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCoolNews_Prefix-gbcmscfzpxnfxlbcndvhgjpzntjd/iCoolNews_Prefix.pch.gch0#
+
+CTouch /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app
+s310345782.050327
+e310345782.052984
+r1
+xTouch
+x/Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app
+lSLF07#2@97"Touch /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app310345782#310345782#0(0"0(0#0#0"4300885448#302"    cd /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/manavdeshmukh/Desktop/Hrishikesh/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app0#
+
+CTouch /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app
+s310352853.505401
+e310352853.512251
+r1
+xTouch
+x/Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app
+lSLF07#2@86"Touch /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app310352853#310352853#0(0"0(0#0#0"4300885448#280"    cd /Users/manavdeshmukh/Desktop/iCoolNews    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/manavdeshmukh/Desktop/iCoolNews/build/Debug-iphonesimulator/iCoolNews.app0#
+

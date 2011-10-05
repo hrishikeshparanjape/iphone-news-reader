@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iCoolNewsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 517}}";
+			sepNavSelRange = "{400, 0}";
+			sepNavVisRange = "{0, 551}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iCoolNewsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 517}}";
+			sepNavSelRange = "{482, 0}";
+			sepNavVisRange = "{0, 621}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iCoolNews */ = {
+		activeExec = 0;
+		executables = (
+			5DCFC0B3127A4F2700ACAE5C /* iCoolNews */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5DCFC0B3127A4F2700ACAE5C /* iCoolNews */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iCoolNews */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iCoolNews */,
+		);
+		breakpoints = (
+			5D90F97D127F62CF008B48BD /* NewsFeedsViewController.m:54 */,
+			5D90F97F127F62DD008B48BD /* NewsFeedsViewController.m:65 */,
+			5D90F981127F62E0008B48BD /* NewsFeedsViewController.m:75 */,
+			5D90F989127F62FA008B48BD /* NewsFeedsViewController.m:54 */,
+		);
+		codeSenseManager = 5DCFC0C9127A4F3100ACAE5C /* Code sense */;
+		executables = (
+			5DCFC0B3127A4F2700ACAE5C /* iCoolNews */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					942,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					882,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310351598;
+			PBXWorkspaceStateSaveDate = 310351598;
+		};
+		perUserProjectItems = {
+			5D0C2001127F9ADC00593115 /* PBXTextBookmark */ = 5D0C2001127F9ADC00593115 /* PBXTextBookmark */;
+			5D0C2002127F9ADC00593115 /* PBXTextBookmark */ = 5D0C2002127F9ADC00593115 /* PBXTextBookmark */;
+			5D0C200F127F9BDA00593115 /* PlistBookmark */ = 5D0C200F127F9BDA00593115 /* PlistBookmark */;
+			5D0C2010127F9BDA00593115 /* PBXTextBookmark */ = 5D0C2010127F9BDA00593115 /* PBXTextBookmark */;
+			5D0C2011127F9BDA00593115 /* PBXTextBookmark */ = 5D0C2011127F9BDA00593115 /* PBXTextBookmark */;
+			5D0C2012127F9BDA00593115 /* PBXTextBookmark */ = 5D0C2012127F9BDA00593115 /* PBXTextBookmark */;
+			5D0C2013127F9BDA00593115 /* PBXTextBookmark */ = 5D0C2013127F9BDA00593115 /* PBXTextBookmark */;
+			5D0C2014127F9BDA00593115 /* PBXTextBookmark */ = 5D0C2014127F9BDA00593115 /* PBXTextBookmark */;
+			5D0C2015127F9BDA00593115 /* PBXTextBookmark */ = 5D0C2015127F9BDA00593115 /* PBXTextBookmark */;
+			5D0C2016127F9BDA00593115 /* PBXTextBookmark */ = 5D0C2016127F9BDA00593115 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5DCFC0C8127A4F3100ACAE5C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5D0C2001127F9ADC00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iCoolNewsAppDelegate.h */;
+		name = "iCoolNewsAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 400;
+		rType = 0;
+		vrLen = 551;
+		vrLoc = 0;
+	};
+	5D0C2002127F9ADC00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iCoolNewsAppDelegate.m */;
+		name = "iCoolNewsAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 482;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 0;
+	};
+	5D0C200F127F9BDA00593115 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iCoolNews-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/manavdeshmukh/Desktop/iCoolNews/iCoolNews-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	5D0C2010127F9BDA00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5DB7DEBF127AA7EE009EE757 /* BrowserViewController.h */;
+		name = "BrowserViewController.h: 13";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	5D0C2011127F9BDA00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5DB7DEC0127AA7EE009EE757 /* BrowserViewController.m */;
+		name = "BrowserViewController.m: 6";
+		rLen = 0;
+		rLoc = 91;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 0;
+	};
+	5D0C2012127F9BDA00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5DB7DE7C127A9D13009EE757 /* SwitchViewController.h */;
+		name = "SwitchViewController.h: 21";
+		rLen = 0;
+		rLoc = 644;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 0;
+	};
+	5D0C2013127F9BDA00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5DB7DEBC127AA7C7009EE757 /* NewsFeedsViewController.h */;
+		name = "NewsFeedsViewController.h: 40";
+		rLen = 0;
+		rLoc = 1247;
+		rType = 0;
+		vrLen = 1766;
+		vrLoc = 206;
+	};
+	5D0C2014127F9BDA00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5DB7DEBD127AA7C7009EE757 /* NewsFeedsViewController.m */;
+		name = "NewsFeedsViewController.m: 149";
+		rLen = 0;
+		rLoc = 5106;
+		rType = 0;
+		vrLen = 1213;
+		vrLoc = 3893;
+	};
+	5D0C2015127F9BDA00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5DB7DE7D127A9D13009EE757 /* SwitchViewController.m */;
+		name = "SwitchViewController.m: 131";
+		rLen = 0;
+		rLoc = 3990;
+		rType = 0;
+		vrLen = 1212;
+		vrLoc = 2778;
+	};
+	5D0C2016127F9BDA00593115 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5DB7DE7D127A9D13009EE757 /* SwitchViewController.m */;
+		name = "SwitchViewController.m: 80";
+		rLen = 0;
+		rLoc = 2452;
+		rType = 0;
+		vrLen = 1430;
+		vrLoc = 2451;
+	};
+	5D90F97D127F62CF008B48BD /* NewsFeedsViewController.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5DB7DEBD127AA7C7009EE757 /* NewsFeedsViewController.m */;
+		functionName = "-parser:didStartElement:namespaceURI:qualifiedName:attributes:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		modificationTime = 310338300.195711;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	5D90F97F127F62DD008B48BD /* NewsFeedsViewController.m:65 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5DB7DEBD127AA7C7009EE757 /* NewsFeedsViewController.m */;
+		functionName = "-parser:foundCharacters:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 65;
+		modificationTime = 310338269.090656;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	5D90F981127F62E0008B48BD /* NewsFeedsViewController.m:75 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5DB7DEBD127AA7C7009EE757 /* NewsFeedsViewController.m */;
+		functionName = "-parser:didEndElement:namespaceURI:qualifiedName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 75;
+		modificationTime = 310338272.1523089;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	5D90F989127F62FA008B48BD /* NewsFeedsViewController.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 5DB7DEBD127AA7C7009EE757 /* NewsFeedsViewController.m */;
+		functionName = "-parser:didStartElement:namespaceURI:qualifiedName:attributes:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		modificationTime = 310338298.075863;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	5DB7DE7C127A9D13009EE757 /* SwitchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 517}}";
+			sepNavSelRange = "{644, 0}";
+			sepNavVisRange = "{0, 718}";
+		};
+	};
+	5DB7DE7D127A9D13009EE757 /* SwitchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 1703}}";
+			sepNavSelRange = "{2452, 0}";
+			sepNavVisRange = "{2451, 1430}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	5DB7DEBC127AA7C7009EE757 /* NewsFeedsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1384, 663}}";
+			sepNavSelRange = "{1247, 0}";
+			sepNavVisRange = "{206, 1766}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	5DB7DEBD127AA7C7009EE757 /* NewsFeedsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1482, 1937}}";
+			sepNavSelRange = "{5106, 0}";
+			sepNavVisRange = "{3893, 1213}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	5DB7DEBF127AA7EE009EE757 /* BrowserViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 517}}";
+			sepNavSelRange = "{267, 0}";
+			sepNavVisRange = "{0, 379}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	5DB7DEC0127AA7EE009EE757 /* BrowserViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1120, 975}}";
+			sepNavSelRange = "{91, 0}";
+			sepNavVisRange = "{0, 1128}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	5DCFC0B3127A4F2700ACAE5C /* iCoolNews */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iCoolNews;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5DCFC0C8127A4F3100ACAE5C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5DCFC0C9127A4F3100ACAE5C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8D1107310486CEB800E47090 /* iCoolNews-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+}
