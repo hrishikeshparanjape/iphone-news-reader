@@ -1,8 +1,16 @@
-1. RSS Reader for iPhone using Cocoa Touch and Objective-C
+/*
+    Copyright(c) 2011 Hrishikesh Paranjape
+    hrishikeshp19@gmail.com
+    http://www.github.com/hrishikeshparanjape
+*/
+
+RSS Reader iPhone application
+
+1. iPhone application using Cocoa Touch and Objective-C
 
 2. Used Yahoo! news feeds API to extract top 5 news feeds relevant to the keyword
 sample Yahoo! API query:
-"http://search.yahooapis.com/NewsSearchService/V1/newsSearch?[parans]"
+"http://search.yahooapis.com/NewsSearchService/V1/newsSearch?[params]"
 
 API Specifications can be found at
 "http://search.yahooapis.com/NewsSearchService/V1/newsSearch"
